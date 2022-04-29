@@ -1,1 +1,1 @@
-# Descriptive_-_Inferential_InsuranceData
+# Descriptive_and_Inferential_InsuranceData (Mandatory Project)
